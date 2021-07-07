@@ -1,7 +1,7 @@
 # Basic-Banking-System
 A simple dynamic website where we can transfer money between multiple users.
 
-Flow: Home Page > View all Customers > Select and View one  Customer > Transfer Money > Select customer to transfer to >  Home Page.
+Flow: Home Page > View all Customers > Select and View one  Customer > Transfer Money > Select customer to transfer to >  View all Customers.
 
 No Login Page. No User Creation. Only transfer of money between multiple users.
 

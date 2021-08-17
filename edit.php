@@ -32,7 +32,7 @@ and open the template in the editor.
                     <center>
                     <div class="banner_content">
                     <h2>Customer Details</h2>
-                    <form action="Transfer.php" method="POST">
+                    <form action="transfer.php" method="POST">
 	<?php
 	$id=$_GET['id'];
 	$con=mysqli_connect("localhost", "root", "","banking","3308");
